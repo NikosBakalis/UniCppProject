@@ -14,7 +14,7 @@ All choices for Booking, Incomes, etc will be printed after yor run the program.
 3. ArrayLists
 4. Class inheritance
 5. Try-Catch
-6. Functions-Methods
+6. Functions
 7. Objects
 8. Exeptions
 9. Templates
