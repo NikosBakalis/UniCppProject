@@ -1,4 +1,4 @@
-# UniC-ppProject
+# UniCppProject
 University C++ project for hotel reservations. 
 
 
@@ -18,4 +18,5 @@ All choices for Booking, Incomes, etc will be printed after yor run the program.
 7. Objects
 8. Exeptions
 9. Templates
+10. Pointers
 ```
