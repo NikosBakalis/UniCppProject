@@ -12,7 +12,7 @@ All choices for Booking, Incomes, etc will be printed after yor run the program.
 1. Loops
 2. Arrays
 3. ArrayLists
-4. Class inheritance
+4. Class inheritance-Header Files
 5. Try-Catch
 6. Functions
 7. Objects
