@@ -5,6 +5,10 @@ University C++ project for hotel reservations.
 ## Commands:
 All choices for Booking, Incomes, etc will be printed after yor run the program.
 
+### Also:
+"src" file includes all C++ ".cpp"
+and "include" includes all headers ".h"
+
 ## Learn
 
 ```
